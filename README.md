@@ -1,5 +1,7 @@
 # kbd-synth
 
+https://strtmack.github.io/kbd-synth/
+
 A browser-based granular piano synth made with vanilla JS.
 Play it with your keyboard.
 
